@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or the ideas it implements, please cite the following work."
+title: "The Coherence Phase Hypothesis: Empirical Evidence From Competitive Cellular Automata"
+authors:
+  - family-names: Kaminovs
+    given-names: Sergejs
+repository-code: "https://github.com/kaminovs/coherence-phase-hypothesis"
+type: software
+abstract: >
+  Reference implementation and reproducible experiments supporting the
+  Coherence Phase Hypothesis. Using competitive cellular automata derived
+  from Conway’s Game of Life, this work demonstrates that long-term
+  dominance and viability emerge only within a bounded coherence phase
+  window between over-optimization and over-randomization.
+keywords:
+  - artificial life
+  - cellular automata
+  - coherence
+  - complex systems
+  - AI alignment
+  - emergence
+license: MIT
+date-released: 2026-01-28
+preferred-citation:
+  type: article
+  title: "The Coherence Phase Hypothesis: Empirical Evidence From Competitive Cellular Automata"
+  authors:
+    - family-names: Kaminovs
+      given-names: Sergejs
+  year: 2026
+  url: "https://github.com/kaminovs/coherence-phase-hypothesis"
