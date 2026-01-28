@@ -15,7 +15,7 @@ emerge only within a bounded coherence phase window.
 - `run_all_coherence_phase.ipynb` — one-click reproduction notebook (Methods → Experiments → Figures → Video)
 
 
-- `paper/` — preprint PDF
+- `The_Coherence_Phase_Hypothesis.pdf` — preprint PDF
 
 ## Quick Start (Colab)
 Click to run the full experiment in your browser:
