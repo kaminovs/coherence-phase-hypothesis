@@ -5,6 +5,7 @@ authors:
   - family-names: Kaminovs
     given-names: Sergejs
 repository-code: "https://github.com/kaminovs/coherence-phase-hypothesis"
+doi: 10.5281/zenodo.18407627
 type: software
 abstract: >
   Reference implementation and reproducible experiments supporting the
@@ -28,4 +29,5 @@ preferred-citation:
     - family-names: Kaminovs
       given-names: Sergejs
   year: 2026
+  doi: 10.5281/zenodo.18407627
   url: "https://github.com/kaminovs/coherence-phase-hypothesis"
