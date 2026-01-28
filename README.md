@@ -12,7 +12,7 @@ environment and demonstrate that long-term dominance and viability
 emerge only within a bounded coherence phase window.
 
 ## Contents
-- `run_all.ipynb` — one-click reproduction notebook (Methods → Experiments → Figures → Video)
+- `run_all_coherence_phase.ipynb` — one-click reproduction notebook (Methods → Experiments → Figures → Video)
 
 
 - `paper/` — preprint PDF
@@ -21,7 +21,7 @@ emerge only within a bounded coherence phase window.
 Click to run the full experiment in your browser:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/YOUR_USERNAME/coherence-phase-hypothesis/blob/main/run_all.ipynb)
+(https://colab.research.google.com/github/YOUR_USERNAME/coherence-phase-hypothesis/blob/main/run_all_coherence_phase.ipynb)
 
 ## Reproducibility
 All stochasticity is controlled by fixed random seeds.
